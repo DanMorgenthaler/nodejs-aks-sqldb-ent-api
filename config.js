@@ -1,11 +1,11 @@
 let config = {}
 
-config.server = "xxxx.database.windows.net";
-config.userName = "xxxx";
-config.password = "xxxx";
+config.server = "f5wu2pblusqls.database.windows.net";
+config.userName = "BlueAdmin";
+config.password = "!!123abc";
 config.options = {
 		rowCollectionOnRequestCompletion: true,
-		database: "xxxx",
+		database: "f5wu2pblusqld-licensing",
 		encrypt: true
 	}
 
